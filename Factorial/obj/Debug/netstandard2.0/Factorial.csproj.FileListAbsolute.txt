@@ -1,9 +1,0 @@
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/bin/Debug/netstandard2.0/Factorial.deps.json
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/bin/Debug/netstandard2.0/Factorial.dll
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/bin/Debug/netstandard2.0/Factorial.pdb
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.csprojAssemblyReference.cache
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.AssemblyInfoInputs.cache
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.AssemblyInfo.cs
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.csproj.CoreCompileInputs.cache
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.dll
-/Users/pedrocleis/Documents/job/FatorialBRF1/unit-test-factorial/Factorial/obj/Debug/netstandard2.0/Factorial.pdb
